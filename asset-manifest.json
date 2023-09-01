@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/instagram-bootcamp/static/css/main.68cde6b8.css",
+    "main.js": "/instagram-bootcamp/static/js/main.21349849.js",
+    "index.html": "/instagram-bootcamp/index.html",
+    "main.68cde6b8.css.map": "/instagram-bootcamp/static/css/main.68cde6b8.css.map",
+    "main.21349849.js.map": "/instagram-bootcamp/static/js/main.21349849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68cde6b8.css",
+    "static/js/main.21349849.js"
+  ]
+}
